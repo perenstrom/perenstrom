@@ -77,7 +77,19 @@ Even though Git is a command line tool, there are a lot of graphical tools that 
 
 In most of these programs, you can see a list of changed files, press a button to stage them, and then type your commit message and press a button to commit. And then press the push-button to push them to GitHub. You can also see all your changes in a long list.
 
+## Cloning a repository
+If you for some reason need to start working on your project on a new computer you don't need to initialise a repository again. You then just need to clone the repository from GitHub to your local computer. The graphical tools make this very easy.
 
+## Going further
+The above information get's you up and running with Git and is all you need for basic version management of your project. Here are some terms and concepts you might encounter when you get more advanced.
 
+### Branches
+A very useful tool when developing is using different **branches** of your code to separate different features being developed on. A common pattern is to have the main branch (usually called _master_) only contain code that is "production ready", that is fully functional to be run live on a server, or sold on an app store. In addition to that you usually have a branch called _develop_, where you can do your development and test new functionality.
 
+These are usually good enough for simple projects. Bigger projects often also use _feature branches_. These contain new features currently being developed, keeping them in a separate branch can be good when working on multiple features at the same time. This will also provide clear history when **merging** branches together when a feature is complete.
 
+### Merging
+When two branches need to become one they are **merged**, either when a feature is done and its _feature branch_ should enter the _develop_ or _master_ branch, or during the development of a feature when other changes made to the _develop_ branch should be merged into the _feature branch_ to keep it up to date with other changes that has happened.
+
+### Merge conflicts
+Sometimes when to branches are merged, you will encounter a **merge conflict**. This is when the same file has been changed in both branches. Git is really smart and can usually merge files without problems, but sometimes a real human is needed. It is then up to you to compare the file in both branches and chose which changes, or both, to keep.
