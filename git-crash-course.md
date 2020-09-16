@@ -73,7 +73,9 @@ If you're working in a team, where someone else also can make changes to the cod
 When you feel ready to save your **commits** to the remote repository on GitHub, you upload them – or **push** them. You do this by typing `git push -u origin master`.
 
 ## Graphical tools to make the process easier
-Even though Git is a command line tool, there are a lot of graphical tools that make this process a lot easier to grasp. Git GUI for Windows, GitKraken, SourceTree, GitHub GUI, to name a few. My personal preference is GitKraken, which has a limit in the free version that it's not able to handle private repositories though.
+Even though Git is a command line tool, there are a lot of graphical tools that make this process a lot easier to grasp. Git GUI for Windows, GitKraken, SourceTree, GitHub GUI, to name a few. My personal preference is GitKraken, which has a limit in the free version that it's not able to handle private repositories though. It is however very pretty when you have multiple branches (see below).
+
+![Gitkraken branching](https://github.com/perenstrom/perenstrom/blob/master/images/git-crash-course-gitkraken.png "Gitkraken Branching")
 
 In most of these programs, you can see a list of changed files, press a button to stage them, and then type your commit message and press a button to commit. And then press the push-button to push them to GitHub. You can also see all your changes in a long list.
 
