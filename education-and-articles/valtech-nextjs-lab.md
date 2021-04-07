@@ -30,8 +30,9 @@ Generella tips är som all utveckling. Dela upp allt i små problem, gör små d
 ### 2. Skapa en statisk sida med lista på filmer
 1. Gör en ny sida under `/pages`
 1. Lägg till en `getStaticProps`-metod som hämtar informationen från API:t och returnerar props för sidan
-1. Kom ihåg att lägga till en environment-variabel med API-urlen i `.env.local`
+1. Kom ihåg att lägga till en environment-variabel med API-urlen i `.env.local` (ändrar man filen måste man stoppa servern och köra `npm run dev` igen för att de ska gå igenom).
 1. Skriv ut listan på filmer (gärna snyggt formatterad, med filmposters, kika i Next-dokumentationen eller presentationen om CSS Modules) på sidan baserat på props:en ni hämtade
+1. (Om ni vill SE filerna som kommer ur från en statisk export kan man köra `next build && next export`, då får ni exporterade filer i en `out`-mapp)
 
 ### 3. Skapa en dynamisk sida med en enskild film
 1. Gör en ny, dynamisk, sida under `/pages`
