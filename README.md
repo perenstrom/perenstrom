@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a web developer based in Stockholm, Sweden. Currently looking for a new challenge. 
+I am a web developer based in the north of Uppland, Sweden. Currently working as a senior frontend developer at ILP VFX, Stockholm. 
 
 I also occasionally write stuff at [dev.to/perenstrom/](https://dev.to/perenstrom/). Check it out!
 
