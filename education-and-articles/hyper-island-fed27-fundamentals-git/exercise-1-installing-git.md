@@ -13,3 +13,5 @@
 - Go through the installer, change the following options from default
   - TODO:
 - Open Git for bash and type `git version` to verify
+
+[Next exercise -->](./exercise-2-terminal.md)

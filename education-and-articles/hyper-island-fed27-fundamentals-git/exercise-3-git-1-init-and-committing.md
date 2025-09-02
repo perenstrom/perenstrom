@@ -17,3 +17,5 @@ _[Relevant section from the talk](https://github.com/perenstrom/talks/blob/main/
 - If you type `git diff --color-words` you will get a diff where the changes are color coded, here you will see your actual change in the first line, and your newly added text
 - Press q to go back to the terminal
 - Commit the changes by adding then with `git add .` and `git commit -m "Change readme"` \* View the history of your repository with `git log --oneline`
+
+[<-- Previous exercise](./exercise-2-terminal.md) | [Next exercise -->](./exercise-4-git-2-branching-and-merging.md)

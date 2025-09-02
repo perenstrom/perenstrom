@@ -15,3 +15,5 @@ _[Relevant section from the talk](https://github.com/perenstrom/talks/blob/main/
 - Add and commit the readme file, this commit will be the merge commit
 - The merge is now done and you can continue to work on your feature, or merge back into main.
 - For this exercise, go ahead and checkout main, and merge your feature branch into main
+
+[<-- Previous exercise](./exercise-5-git-3-rebasing.md) | [Next exercise -->](./exercise-7-github-1-creating-your-profile.md)

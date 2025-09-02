@@ -22,3 +22,5 @@ _[Relevant section from the talk](https://github.com/perenstrom/talks/blob/main/
 - Press save, and github will automatically publish the site (you can see this process under the Actions tab of your repository)
 - This will not take long, and if you refresh the pages settings page you will see a link to your newly published site
 - Congratulations on publishing your first personal web page! 🎉
+
+[<-- Previous exercise](./exercise-7-github-1-creating-your-profile.md)

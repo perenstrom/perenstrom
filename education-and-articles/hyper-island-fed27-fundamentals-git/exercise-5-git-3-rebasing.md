@@ -12,3 +12,5 @@ _[Relevant section from the talk](https://github.com/perenstrom/talks/blob/main/
 - Do a rebase with `git rebase main`, which will take our two commits on my-feature-branch-3, and apply them one after the other on top of the latest changes on main.
 - Now our feature branch is up to date with main, and we can continue our work, or merge to main.
 - For this exercise, go ahead and checkout main, and merge your feature branch into main
+
+[<-- Previous exercise](./exercise-4-git-2-branching-and-merging.md) | [Next exercise -->](./exercise-6-git-4-conflict-management.md)

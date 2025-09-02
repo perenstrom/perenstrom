@@ -53,3 +53,5 @@ _[Relevant section from the talk](https://github.com/perenstrom/talks/blob/main/
 - Press Confirm merge.
 - If you are working on a temporary feature branch, it's often best practice to delete the branch afterwards. Usually only main and dev are branches that are long lived in projects. In this case, if you want to keep doing changes to the profile, and experiment without it being public directly on your profile page on github, let the dev branch live. Otherwise, go ahead and press Delete branch. You can always create a new branch called dev later.
 - Go to your profile by pressing the avatar in the top right and pressing Your profile, your new profile text should now be visible on your profile page, congratulations!
+
+[<-- Previous exercise](./exercise-6-git-4-conflict-management.md) | [Next exercise -->](./exercise-8-github-2-adding-your-personal-web-site.md)

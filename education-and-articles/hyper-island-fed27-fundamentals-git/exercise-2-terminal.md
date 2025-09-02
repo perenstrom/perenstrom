@@ -8,3 +8,5 @@ _[Relevant section from the talk](https://github.com/perenstrom/talks/blob/main/
 - Navigate back up to your home folder
 - Create a new folder called `fed27-fundamentals-git1` in your home folder
 - Enter that folder
+
+[<-- Previous exercise](./exercise-1-installing-git.md) | [Next exercise -->](./exercise-3-git-1-init-and-committing.md)
