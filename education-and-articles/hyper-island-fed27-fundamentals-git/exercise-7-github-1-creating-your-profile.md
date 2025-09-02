@@ -1,5 +1,7 @@
 # Exercise 7 – GitHub 1: Creating Your Profile
 
+_[Relevant section from the talk](https://github.com/perenstrom/talks/blob/main/2025-09-05-hyper-island-git/2025-09-05-hyper-island-git-6.pdf)_
+
 - Go to https://github.com and create an account
 - Go to your repositories by clicking your avatar in the top right and going to Your repositories
 - Press the shiny green New button

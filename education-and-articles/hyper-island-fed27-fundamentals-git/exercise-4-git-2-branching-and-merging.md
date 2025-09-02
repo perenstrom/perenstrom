@@ -1,5 +1,7 @@
 # Exercise 4 – Git 2: Branching and Merging
 
+_[Relevant section from the talk](https://github.com/perenstrom/talks/blob/main/2025-09-05-hyper-island-git/2025-09-05-hyper-island-git-3.pdf)_
+
 - Create a new branch of your code and checkout with `git checkout -b my-feature-branch`
 - You're now on a new branch of your code!
 - Do a change to your readme file and commit it

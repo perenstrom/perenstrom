@@ -1,5 +1,7 @@
 # Exercise 5 – Git 3: Rebasing
 
+_[Relevant section from the talk](https://github.com/perenstrom/talks/blob/main/2025-09-05-hyper-island-git/2025-09-05-hyper-island-git-4.pdf)_
+
 - Create a new branch and checkout with `git checkout -b my-feature-branch-3`
 - Do changes in the readme file and commit them, do another set of changes in the readme file and commit them as well
 - Checkout the main branch

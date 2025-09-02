@@ -1,5 +1,7 @@
 # Exercise 8 – GitHub 2: Publishing Your Web Site To GitHub
 
+_[Relevant section from the talk](https://github.com/perenstrom/talks/blob/main/2025-09-05-hyper-island-git/2025-09-05-hyper-island-git-8.pdf)_
+
 - Go to your repositories in Github, and press the New button
 - If you want your web site to be at your-username.github.io, it must be called your-username.github.io, otherwise it can be named anything and will appear at your-username.github.io/repository-name
 - Make sure to have "add README" turned OFF

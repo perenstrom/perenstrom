@@ -1,5 +1,7 @@
 # Exercise 3 – Git 1: Init and Committing
 
+_[Relevant section from the talk](https://github.com/perenstrom/talks/blob/main/2025-09-05-hyper-island-git/2025-09-05-hyper-island-git-2.pdf)_
+
 - In the previously created folder, run `git init` to create an empty repository
 - Open VS code and create a new file, enter some text in this file and save it in the folder we created in the terminal, as readme.txt
 - Back in the terminal, type `git status`

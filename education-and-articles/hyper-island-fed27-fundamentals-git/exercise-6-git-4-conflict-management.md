@@ -1,5 +1,7 @@
 # Exercise 6 – Git 4: Conflict Management
 
+_[Relevant section from the talk](https://github.com/perenstrom/talks/blob/main/2025-09-05-hyper-island-git/2025-09-05-hyper-island-git-5.pdf)_
+
 - Create a new branch from main called `my-feature-branch-4` and checkout
 - Do changes on the first line in the readme file, and commit them
 - Checkout the main branch
