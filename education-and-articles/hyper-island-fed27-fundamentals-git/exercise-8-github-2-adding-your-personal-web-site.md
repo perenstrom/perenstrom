@@ -1,0 +1,22 @@
+# Exercise 8 – GitHub 2: Publishing Your Web Site To GitHub
+
+- Go to your repositories in Github, and press the New button
+- If you want your web site to be at your-username.github.io, it must be called your-username.github.io, otherwise it can be named anything and will appear at your-username.github.io/repository-name
+- Make sure to have "add README" turned OFF
+- You will now land on an empty repository with some instructions on how to hook the repository up to your local code, we'll go through it here as well, for now just copy the HTTPS url of the git repository from the blue area
+- In your terminal, navigate using `cd` to the folder with your web page files
+- Use the command `git init` to initialise a repository
+- Add all files in the folder to the git repository with `git add .`
+- Commit your files with `git commit -m "first commit"`
+- Change the default branch name to main with `git branch -M main`
+- Add the github repository url as a remote (called origin) for your local repository with `git remote add origin https://github.com/your-username/repository-name.git`, the url will be shown on the empty repository page in github
+- Here you might want to add a README.md file to the folder and add a description of what the repository contains, add and commit the readme file
+- Push your local changes (all your web site files) to github with `git push -u origin main`, this command also maps the branch `main` on github to your branch `main` locally, in theory they could be named different, but I've never come across that
+  - After this first map, you can push your changes with just `git push`, if you are on the main branch. If you create a new branch and want to push that, you will want to use the full command for that branch the first time.
+- Go to github and see that all your web site files are listed in the repository page
+- Go to the settings tab of the repository, and press pages in the left menu
+- Under the Branch heading, select main as the branch to deploy from (this means that only changes pushed to main will be visible on the site, allowing you to work in a separate branch and when you're ready merge to main and deploy the new version of the site)
+- In the dropdown next to it you can also chose a different folder in your repository to be the starting point of your site, if your index.html file is not in the root folder of your repository
+- Press save, and github will automatically publish the site (you can see this process under the Actions tab of your repository)
+- This will not take long, and if you refresh the pages settings page you will see a link to your newly published site
+- Congratulations on publishing your first personal web page! 🎉
