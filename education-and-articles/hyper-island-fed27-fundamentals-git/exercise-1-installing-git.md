@@ -19,4 +19,6 @@ In this exercise we will install Git on our computer. We do this before [Exercis
   - TODO:
 - Open Git Bash and type `git version` and press enter to verify
 
+---
+
 [Next exercise -->](./exercise-2-terminal.md)

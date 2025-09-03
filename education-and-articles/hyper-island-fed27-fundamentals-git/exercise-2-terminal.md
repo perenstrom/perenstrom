@@ -11,4 +11,6 @@ In this exercise we will start to find our bearings in the Terminal. Use the pre
 1. Create a new folder called `fed27-fundamentals-git` in your home folder
 1. Enter that folder
 
+---
+
 [<-- Previous exercise](./exercise-1-installing-git.md) | [Next exercise -->](./exercise-3-git-1-init-and-committing.md)
