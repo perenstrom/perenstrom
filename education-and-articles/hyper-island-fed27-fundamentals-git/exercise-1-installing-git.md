@@ -16,7 +16,7 @@ In this exercise we will install Git on our computer. We do this before [Exercis
 - Go to https://git-scm.com/downloads/win
 - Open the downloaded installer
 - Go through the installer, change the following options from default
-  - TODO:
+  - When asked, make sure to check the checkbox to install Git Bash
 - Open Git Bash and type `git version` and press enter to verify
 
 ---
