@@ -36,7 +36,7 @@ This will now open up a primitive text editor (_called vim, some people will get
 
 The first line of this text editor is the commit message, and any other lines can be used to add additional detail to the commit message, we can ignore those for now. Since this is an automated merge commit it will already have a message at the first line, we can stick with that default message.
 
-13. Quit the vim editor (and using default message) by typing `:q` and pressing enter
+13. Quit the vim editor (and using default message) by typing `:q` and pressing enter, if this doesn't work, try pressing escape, then typing `:q!` and pressing enter.
 
 [How to quit vim](https://stackoverflow.com/questions/11828270/how-do-i-exit-vim) is the most viewed question/answer on StackOverflow, since this is a bonkers way to quit a program.
 
